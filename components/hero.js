@@ -27,14 +27,14 @@ export default
 
             <div className="flex flex-wrap items-start space-x-3 space-y-3 sm:space-y-0 sm:items-center sm:flex-row">
               <a
-                href="https://presale.nusaku.net/?ref=0xF3865534aD5ec996724666d2C734642aEe8218e2"
+                href="https://pancakeswap.finance/swap?outputCurrency=0xf90e58E5b8a0524D5D3f559C1873BBF485802d96"
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-gradient-to-r from-blue-200 to-green-500 rounded-md transition duration-500 ease-in-out hover:bg-green-400 transform hover:-translate-y-1 hover:scale-105">
-                Buy on Presale III
+                Buy on PancakeSwap
               </a>
               <a
-                href="https://nusaku.net/wp-content/uploads/2021/12/whitepaper-nusaku.pdf"
+                href="http://nusaku.net/wp-content/uploads/2021/12/whitepaper-nusaku.pdf"
                 target="_blank"
                 rel="noopener"
                 className="flex items-center py-4 text-gray-500 dark:text-gray-400 px-8  text-lg font-medium text-center rounded-md transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105">
