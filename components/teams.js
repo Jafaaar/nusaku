@@ -25,12 +25,6 @@ export default function Testimonials() {
                   <LinkedIn />
                 </a>
               </div>
-              <div className="px-4">
-                <a href="https://https://facebook.com/YohanisCianesWalean" target="_blank" rel="noopener">
-                  <span className="sr-only">Facebook</span>
-                  <Facebook />
-                </a>
-              </div>
             </div>
           </div>
 
