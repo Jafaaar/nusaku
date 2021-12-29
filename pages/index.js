@@ -198,6 +198,11 @@ export default function Home() {
       <Faq />
 
       {/* SPACE */}
+      <SectionTitle>
+        <h1 className="py-5 font-bold leading-snug tracking-tight text-transparent lg:text-4xl lg:leading-tight xl:text-1xl xl:leading-tight bg-clip-text bg-gradient-to-r from-blue-300 to-green-500">
+          Nusaku Teams
+        </h1>
+      </SectionTitle>
       <Teams />
       {/* SPACE */}
 
