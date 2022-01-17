@@ -50,7 +50,7 @@ const faqdata = [
   {
     question: "How to Claim Oxygenerator Certificate?",
     answer:
-      "In order to claim your Oxygenerator Certificate, you must make as many transactions (Sell-Buy) you can per month, NUSAKU administrator will announce who is entitled to get the certificate every 12th day of the month and you have to reply in 3 days, so by 15th day of the month we will sent your name and data to the trees planting site. The current month (the transaction during 12th day of last month to 12th day of current month) accumulation transaction only to qualify for the certificate awarding.",
+      "In order to claim your Oxygenerator Certificate, you must make as many transactions (Sell-Buy) you can per month, NUSAKU administrator will announce who is entitled to get the certificate every 21st day of the month and you have to reply in 3 days, so by 24th day of the month we will sent your name and data to the trees planting site. The current month (the transaction during 21st day of last month to 21st day of current month) accumulation transaction only to qualify for the certificate awarding.",
   },
 
 ];
