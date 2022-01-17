@@ -38,7 +38,7 @@ export default function Testimonials() {
             />
             <div className="flex justify-end w-full h-full bg-gray-100 px-14 rounded-2xl py-4 dark:bg-trueGray-500">
               <div className="px-4">
-                <a href="https://id.linkedin.com/in/pradana-aria-7830661a0" target="_blank" rel="noopener">
+                <a href="http://www.linkedin.com/in/pradana-putrantau-7830661a0" target="_blank" rel="noopener">
                   <span className="sr-only">LinkedIn</span>
                   <LinkedIn />
                 </a>
