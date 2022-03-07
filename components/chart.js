@@ -508,16 +508,12 @@ function RoadmapGroup() {
               <div class="flex justify-start w-full mx-auto items-center">
                 <div class="w-full sm:w-1/2 sm:pr-12">
                   <div class="p-4 bg-yellow-100 rounded shadow">
-                    - ICO (Initial Coin Offering) Locking for 1 year
-                    <br />
-                    - Airdrop session I
-                    <br />
+                    - ICO
+                    <br /> 
+   - Audit Certik
+    <br />
                     - Launch NUSAKU on BEP20 Network
                     <br />
-                    - Listing on CMC and Coin Gecko
-                    <br />
-                    - Logo on Trust Wallet and SafePall
-                    <br />- Listing on the 4 biggest Exchange
                   </div>
                 </div>
                 <div class="w-full sm:w-1/2 sm:pr-8 text-center justify-center">
@@ -549,20 +545,13 @@ function RoadmapGroup() {
                 </div>
                 <div class="w-full sm:w-1/2 sm:pl-8">
                   <div class="p-4 bg-red-100 rounded shadow">
-                    - Mandaraka Green Zone
-                    <br />
-                    - Titiek Puspa Academic Zone
-                    <br />
-                    - Jokowi Green Zone
-                    <br />
-                    - Airdrop session II
-                    <br />
-                    - Guiness World Record ( GWR ) at West Kalimantan
-                    <br />
-                    - seminar on carbon trading & crypto asset for doctoral promotion in Scopus
-                    <br />
-                    - Gold Mining (offline project)
-                    <br />- Nikel Mining (offline project)
+                - Airdrop session 1
+<br />
+- Listing cmc and coingecko
+<br />
+- Logo on trustwallet and safepall
+<br />
+- Listing on exchangers
                   </div>
                 </div>
               </div>
@@ -584,10 +573,11 @@ function RoadmapGroup() {
               <div class="flex justify-start w-full mx-auto items-center">
                 <div class="w-full sm:w-1/2 sm:pr-8">
                   <div class="p-4 bg-blue-100 rounded shadow">
-                    - Airdrop Session III
-                    <br />
-                    - Launch NUSAKU Wallet
-                    <br />- Make own exchanger with BAPPEBTI License
+                   - Airdrop session 2
+<br />
+- Launch nusaku dapps
+<br />
+- Launch nusaku marketplace
                   </div>
                 </div>
                 <div class="w-full sm:w-1/2 sm:pr-8 text-center">
@@ -614,28 +604,11 @@ function RoadmapGroup() {
                 </div>
                 <div class="w-full sm:w-1/2 sm:pl-8">
                   <div class="p-4 bg-green-100 rounded shadow">
-                    - NUSAKU UNFCCC (United Nations Framework Convention on Climate Change) Expose
-                    <br />
-                    - Tour with ICAPP (International Conference of Asian Politic)
-                    <br />
-                    - World universities Environment Road Show
-                    <br />
-                    - Airdrop Session IV
-                    <br />
-                    - Indonesia Crypto Expo Event, by NUSAKU
-                    <br />
-                    - Participate in Dubai Crypto Expo
-                    <br />
-                    - NUSAKU Asia tour
-                    <br />
-                    - NUSAKU Europe tour
-                    <br />
-                    - NUSAKU America tour
-                    <br />
-                    - NUSAKU Africa tour
-                    <br />
-                    - Tour with UN-Habitat
-                    <br />- Tour with UNEP (United Nation Environment Program)
+                -  Launch nusaku NFT and metaverse
+<br />
+- Launch nusaku game
+<br />
+- Make exchanger
                   </div>
                 </div>
               </div>
@@ -657,15 +630,9 @@ function RoadmapGroup() {
               <div class="flex justify-start w-full mx-auto items-center">
                 <div class="w-full sm:w-1/2 sm:pr-8">
                   <div class="p-4 bg-purple-100 rounded shadow">
-                    - Airdrop Session V
-                    <br />
-                    - Make a Blockchain for NUSAKU project
-                    <br />
-                    - Promote Carbon Credit at Universities
-                    <br />
-                    - Build COIN TOWER as cryptocurrency developer center
-                    <br />- Maya Island Development Project With KOPRABUH 4F2C(Four Factor For Fighting Climate Change) Carbon sink, ECO
-                    Energy, Eco Industry and ECO City.
+    - Nusaku C
+    <br />
+                  -  Nusaku blockchain
                   </div>
                 </div>
                 <div class="w-full sm:w-1/2 sm:pr-8 text-center">
